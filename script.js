@@ -3,7 +3,7 @@ async function pesanAwal() {
     suratin.style = "display:none";
     ket.style = "display:none";
     await swalst.fire({
-        title: 'Chào cục cưngg! ❤️',
+        title: 'Chào cậu nhaaanhaaa! ❤️',
         imageUrl: '' + stiker1.src,
     });
     await swalst.fire({
@@ -11,15 +11,15 @@ async function pesanAwal() {
         imageUrl: '' + stiker2.src,
     });
     await swalst.fire({
-        title: 'Tuyệt sắc giai nhân phải yêuu taa 🤭❤️',
+        title: 'Chúc cậu Valentine thật là hạnh phúccc 🤭❤️',
         imageUrl: '' + stiker3.src,
     });
     await swalst.fire({
-        title: 'Valentine để ta ôm 🥺❤️',
+        title: 'Cho tớ xin lỗi vì đã làm cậu buồn nhaa 🥺❤️',
         imageUrl: '' + stiker4.src,
     });
     await swalst.fire({
-        title: 'Valentine làmm vkiu tuii nhaa 😘💕',
+        title: 'Cậu làm Valentine của tớ nháaa 😘💕',
         imageUrl: '' + stiker5.src,
     });
     mulaikonten();
