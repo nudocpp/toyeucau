@@ -3,7 +3,7 @@ async function pesanAwal() {
     suratin.style = "display:none";
     ket.style = "display:none";
     await swalst.fire({
-        title: 'Chào cậu nhaaanhaaa! ❤️',
+        title: 'Chào cậu nhaaa! ❤️',
         imageUrl: '' + stiker1.src,
     });
     await swalst.fire({
